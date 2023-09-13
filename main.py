@@ -1,6 +1,6 @@
 import requests,argparse,random,string
 
-
+#add new comment
 
 def detect_filter(url , method , params , x_parameter , headers):
     special_char = ["<" , ">" , "'" , '"' , "/" , "\\" , "="]
